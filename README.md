@@ -1,4 +1,4 @@
-#Dynamic User Input Web Application
+Dynamic User Input Web Application
 Built a web application that captures user input through a form and generates dynamic responses based on submitted data.
 
 - Implemented input fields and form handling to collect user data
